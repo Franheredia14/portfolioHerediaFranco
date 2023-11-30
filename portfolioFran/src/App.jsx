@@ -1,4 +1,4 @@
-import "./app.css"
+import './app.css'
 import {Header} from "../src/components/header/Header.jsx";
 import Home from "./components/home/Home.jsx";
 import About from "./components/about/About.jsx";
@@ -23,7 +23,7 @@ const App = () => {
     </main>
       <Footer/>
       <ScrollUp/>
-  </div>;
+  </div>
 };
 
 export default App;
